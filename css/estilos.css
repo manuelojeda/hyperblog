@@ -1,6 +1,22 @@
 body {
-    text-align: center;
+    text-align: left;
     font-family: 'Roboto';
-    background-color: #0099dd;
-    color: #fff;
+    background-color: #fff;
+    color: #333;
+    margin: 0;
+    font-size: 22px;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 1em;
+    border: 1px solid #333;
+    text-align: left;
+}
+
+#container h1 {
+    font-size: 48px;
 }
